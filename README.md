@@ -1,10 +1,10 @@
 <h1  > Hi there, I'm Tiago! 👋 </h1>
 
 - 🌱 I’m currently learning C# and .Net
-- 📫 How to reach me: [E-mail](tjscp25barros@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/tiago-barros-blowtorch/).
+- 📫 How to reach me: [E-mail](mailto:tjscp25barros@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/tiago-barros-blowtorch/).
 - 📖 You can find my updated CV [HERE](https://drive.google.com/file/d/1ZFzmH_hN9JRgLZ2DvcHdTIsAnMzbWr4s/view?usp=sharing).
 
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](tjscp25barros@hotmail.com)
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tjscp25barros@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-barros-blowtorch/)
 
 ---
